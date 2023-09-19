@@ -36,10 +36,7 @@
         <div><label>Saturday <input type="checkbox" name="available_field[]" value="saturday"></label></div>
         <h3>Comments</h3>
         
-      </div>
-    </fieldset>
-    <input type="hidden" name="hidden_field" value="dkriegls">
-    <input type="submit">
+    
   </form>
 </body>
 </html>
